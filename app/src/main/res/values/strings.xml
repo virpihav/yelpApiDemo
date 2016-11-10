@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YelpApiDemo</string>
+    <string name="description">Description</string>
+    <string name="example_application">Example application</string>
+</resources>
